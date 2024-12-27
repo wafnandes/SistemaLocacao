@@ -1,0 +1,104 @@
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\GirassoisLocacoes.Entidades.dll.config
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\GirassoisLocacoes.Entidades.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\GirassoisLocacoes.Entidades.pdb
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.Charting.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Buffers.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Drawing.Common.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Memory.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Security.AccessControl.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Permissions.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.Charting.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Buffers.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Memory.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.csproj.AssemblyReference.cache
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.Properties.Resources.resources
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.csproj.GenerateResource.cache
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\Girassoi.92CF3547.Up2Date
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.dll
+C:\Users\cmpwa\OneDrive\Documentos\Warley\GirassoisLocacoes\SistemaLocacao\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.pdb
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\GirassoisLocacoes.Entidades.dll.config
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\GirassoisLocacoes.Entidades.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\GirassoisLocacoes.Entidades.pdb
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.Charting.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Buffers.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Drawing.Common.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Memory.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Security.AccessControl.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Permissions.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Json.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.ValueTuple.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\PdfSharp.Charting.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Buffers.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Memory.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Text.Json.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\System.ValueTuple.xml
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.csproj.AssemblyReference.cache
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.Properties.Resources.resources
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.csproj.GenerateResource.cache
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\Girassoi.92CF3547.Up2Date
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.dll
+C:\Users\cmpwa\OneDrive\Área de Trabalho\GirassoisLocacoes\GirassoisLocacoes\GirassoisLocacoes.Entidades\obj\Debug\GirassoisLocacoes.Entidades.pdb
